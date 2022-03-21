@@ -44,5 +44,15 @@ namespace supermarket.UI
         {
 
         }
+
+        private void name_textbox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,8 +1,11 @@
+using supermarket.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace supermarket
 {
@@ -17,7 +20,7 @@ namespace supermarket
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAdminDashboard());
+            Application.Run(new loginScreen());
         }
     }
 }

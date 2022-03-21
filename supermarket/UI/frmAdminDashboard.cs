@@ -23,14 +23,26 @@ namespace supermarket
 
         }
 
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblFooter_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void add_button_Click(object sender, EventArgs e)
         {
             frmUsers user = new frmUsers();
             user.Show();
         }
-        private void label2_Click(object sender, EventArgs e)
-        {
 
+        private void store_Click(object sender, EventArgs e)
+        {
+            store store = new store();
+            store.Show();
         }
     }
 }

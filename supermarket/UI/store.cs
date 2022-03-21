@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace supermarket
 {
-    public partial class frmUserDashboard : Form
+    public partial class store : Form
     {
-        public frmUserDashboard()
+        public store()
         {
             InitializeComponent();
         }
@@ -21,6 +21,11 @@ namespace supermarket
         }
 
         private void frmUserDashboard_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void add_button_Click(object sender, EventArgs e)
         {
 
         }
