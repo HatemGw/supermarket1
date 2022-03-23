@@ -59,9 +59,10 @@ namespace supermarket.UI
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(25, 202);
+            this.pictureBox2.Location = new System.Drawing.Point(29, 269);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(33, 30);
+            this.pictureBox2.Size = new System.Drawing.Size(38, 40);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
@@ -71,25 +72,28 @@ namespace supermarket.UI
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.pictureBox3);
-            this.panel1.Location = new System.Drawing.Point(29, 243);
+            this.panel1.Location = new System.Drawing.Point(33, 324);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(236, 1);
+            this.panel1.Size = new System.Drawing.Size(270, 1);
             this.panel1.TabIndex = 3;
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.panel2.Location = new System.Drawing.Point(2, 78);
+            this.panel2.Location = new System.Drawing.Point(2, 104);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(236, 1);
+            this.panel2.Size = new System.Drawing.Size(270, 1);
             this.panel2.TabIndex = 5;
             // 
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(-2, 37);
+            this.pictureBox3.Location = new System.Drawing.Point(-2, 49);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(33, 30);
+            this.pictureBox3.Size = new System.Drawing.Size(38, 40);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 4;
             this.pictureBox3.TabStop = false;
@@ -99,25 +103,28 @@ namespace supermarket.UI
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
             this.panel3.Controls.Add(this.panel4);
             this.panel3.Controls.Add(this.pictureBox4);
-            this.panel3.Location = new System.Drawing.Point(30, 310);
+            this.panel3.Location = new System.Drawing.Point(34, 413);
+            this.panel3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(236, 1);
+            this.panel3.Size = new System.Drawing.Size(270, 1);
             this.panel3.TabIndex = 5;
             // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.panel4.Location = new System.Drawing.Point(2, 78);
+            this.panel4.Location = new System.Drawing.Point(2, 104);
+            this.panel4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(236, 1);
+            this.panel4.Size = new System.Drawing.Size(270, 1);
             this.panel4.TabIndex = 5;
             // 
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(-2, 37);
+            this.pictureBox4.Location = new System.Drawing.Point(-2, 49);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(33, 30);
+            this.pictureBox4.Size = new System.Drawing.Size(38, 40);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 4;
             this.pictureBox4.TabStop = false;
@@ -125,9 +132,10 @@ namespace supermarket.UI
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(26, 269);
+            this.pictureBox5.Location = new System.Drawing.Point(30, 359);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(33, 30);
+            this.pictureBox5.Size = new System.Drawing.Size(38, 40);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 4;
             this.pictureBox5.TabStop = false;
@@ -138,9 +146,10 @@ namespace supermarket.UI
             this.login.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.login.Font = new System.Drawing.Font("Bahnschrift", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.login.ForeColor = System.Drawing.Color.White;
-            this.login.Location = new System.Drawing.Point(32, 353);
+            this.login.Location = new System.Drawing.Point(37, 471);
+            this.login.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.login.Name = "login";
-            this.login.Size = new System.Drawing.Size(236, 36);
+            this.login.Size = new System.Drawing.Size(270, 48);
             this.login.TabIndex = 6;
             this.login.Text = "تسجيل الدخول";
             this.login.UseVisualStyleBackColor = false;
@@ -152,9 +161,9 @@ namespace supermarket.UI
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.label2.Location = new System.Drawing.Point(192, 321);
+            this.label2.Location = new System.Drawing.Point(219, 428);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(73, 16);
+            this.label2.Size = new System.Drawing.Size(81, 20);
             this.label2.TabIndex = 7;
             this.label2.Text = "إعادة تعيين";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -165,9 +174,9 @@ namespace supermarket.UI
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.label3.Location = new System.Drawing.Point(132, 404);
+            this.label3.Location = new System.Drawing.Point(151, 539);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(40, 16);
+            this.label3.Size = new System.Drawing.Size(46, 20);
             this.label3.TabIndex = 8;
             this.label3.Text = "خروج";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -176,21 +185,24 @@ namespace supermarket.UI
             // 
             this.textpassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textpassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textpassword.Location = new System.Drawing.Point(66, 280);
+            this.textpassword.Location = new System.Drawing.Point(75, 373);
+            this.textpassword.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.textpassword.Multiline = true;
             this.textpassword.Name = "textpassword";
             this.textpassword.PasswordChar = '*';
-            this.textpassword.Size = new System.Drawing.Size(199, 24);
+            this.textpassword.Size = new System.Drawing.Size(227, 32);
             this.textpassword.TabIndex = 9;
+            this.textpassword.TextChanged += new System.EventHandler(this.textpassword_TextChanged);
             // 
             // textUsername
             // 
             this.textUsername.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textUsername.Location = new System.Drawing.Point(66, 213);
+            this.textUsername.Location = new System.Drawing.Point(75, 284);
+            this.textUsername.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.textUsername.Multiline = true;
             this.textUsername.Name = "textUsername";
-            this.textUsername.Size = new System.Drawing.Size(200, 22);
+            this.textUsername.Size = new System.Drawing.Size(229, 29);
             this.textUsername.TabIndex = 10;
             // 
             // label4
@@ -198,9 +210,9 @@ namespace supermarket.UI
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 24.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.label4.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.label4.Location = new System.Drawing.Point(132, 59);
+            this.label4.Location = new System.Drawing.Point(151, 79);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(150, 45);
+            this.label4.Size = new System.Drawing.Size(188, 55);
             this.label4.TabIndex = 12;
             this.label4.Text = "MARKET";
             // 
@@ -208,9 +220,9 @@ namespace supermarket.UI
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 24.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(22, 59);
+            this.label5.Location = new System.Drawing.Point(25, 79);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(121, 45);
+            this.label5.Size = new System.Drawing.Size(150, 55);
             this.label5.TabIndex = 11;
             this.label5.Text = "SUPER";
             // 
@@ -219,9 +231,9 @@ namespace supermarket.UI
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(124)))));
-            this.label1.Location = new System.Drawing.Point(66, 125);
+            this.label1.Location = new System.Drawing.Point(75, 167);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(165, 37);
+            this.label1.Size = new System.Drawing.Size(205, 46);
             this.label1.TabIndex = 1;
             this.label1.Text = "تسجيل الدخول";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -229,19 +241,20 @@ namespace supermarket.UI
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(102, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(117, 16);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(70, 49);
+            this.pictureBox1.Size = new System.Drawing.Size(80, 65);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // loginScreen
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(292, 447);
+            this.ClientSize = new System.Drawing.Size(334, 596);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.textUsername);
@@ -256,6 +269,7 @@ namespace supermarket.UI
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "loginScreen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "تسجيل الدخول";

@@ -36,3 +36,6 @@ C:\Users\Train\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\sup
 C:\Users\Train\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\supermarket.genruntimeconfig.cache
 C:\Users\Train\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\supermarket.store.resources
 C:\Users\Train\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\supermarket.UI.loginScreen.resources
+C:\Users\omen\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\supermarket.csprojAssemblyReference.cache
+C:\Users\omen\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\supermarket.dll
+C:\Users\omen\source\repos\supermarket1\supermarket\obj\Debug\netcoreapp3.1\supermarket.pdb

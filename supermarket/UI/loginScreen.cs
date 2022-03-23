@@ -53,5 +53,10 @@ namespace supermarket.UI
         {
 
         }
+
+        private void textpassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
